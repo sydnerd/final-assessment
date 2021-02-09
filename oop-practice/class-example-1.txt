@@ -1,0 +1,13 @@
+Class: Teacher
+
+Attributes:
+isNice (boolean)
+name (string)
+height(integer)
+studentsInClass (array)
+
+Methods:
+newStudent(adds student to the studentsInClass array)
+changeName(modifies name string)
+isMean (modifies isNice boolean )
+grow (changes height integer)
