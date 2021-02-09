@@ -1,0 +1,13 @@
+Instance: Mr. Brown
+
+Attributes:
+isNice = true
+name = Jon
+height = 72
+studentsInClass= ["michael", "james","hannah","mary"]
+
+Methods:
+newStudent: studentsInClass=["michael","james","hannah","wendy"]
+changeName: name = Jonny
+isMean: isNice = false
+grow: height=73
