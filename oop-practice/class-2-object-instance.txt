@@ -1,0 +1,13 @@
+Class: Student
+
+Attributes:
+gradeLevel= 9
+name = "Sydney"
+female = true
+classmates = ["jon","mary","lizzie"]
+
+Methods:
+graduateGrade: gradeLevel= 10
+changeName: name= "syd"
+changeGender: female =false
+newStudent: classmates = ["jon","mary","lizzie","henry"]
